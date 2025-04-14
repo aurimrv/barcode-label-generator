@@ -1,6 +1,6 @@
 # barcode-label-generator
 
-Barcode Label Generator for Products Identification
+Barcode Label Generator for Products Identification using OKAPI.
 
 It is configure to print information in small labels (width 33mm x height 22mm)
 
