@@ -45,7 +45,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.LabelGenerator</mainClass>
+                            <mainClass>com.aurimrv.barcode.LabelGenerator</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
