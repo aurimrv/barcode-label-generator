@@ -13,5 +13,5 @@ CSV columns are:
 
 ```
 mvn clean package
-mvn java -jar target/okapi-code93-label-1.0-jar-with-dependencies.jar products/ES2522.csv
+java -jar target/okapi-code93-label-1.0-jar-with-dependencies.jar products/ES2522.csv
 ```
